@@ -25,3 +25,24 @@
 .price {
     color: #FF136F;
 }
+.cat1, .cat2, .cat3 {
+    padding: 10px 30px;
+    color: white;
+    border-radius: 20px;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    -ms-border-radius: 20px;
+    -o-border-radius: 20px;
+}
+.cat1 {
+    background-image: linear-gradient(120deg, #FF9C35, #FFD019);
+}
+.cat2 {
+    background-image: linear-gradient(to bottom, #FF589B, #FF136F);
+}
+.cat3 {
+    background-image: linear-gradient(100deg, #4289FF, #3F07F8);
+}
+.catagories img {
+    width: 100px;
+}
