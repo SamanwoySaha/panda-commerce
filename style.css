@@ -1,3 +1,27 @@
 .container {
     margin-bottom: 100px;
 }
+.pink-bg {
+    background-color: #FEEAE9;
+    padding: 20px 40px;
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+}
+.buy-now-button {
+    background-image: linear-gradient(to bottom, #FF589B, #FF136F);
+    padding: 10px 30px;
+    border: none;
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+    color: white;
+    margin-top: 15px;
+}
+.price {
+    color: #FF136F;
+}
