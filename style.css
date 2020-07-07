@@ -20,10 +20,13 @@
     -ms-border-radius: 10px;
     -o-border-radius: 10px;
     color: white;
-    margin-top: 15px;
+    margin-top: 10px;
 }
 .price {
     color: #FF136F;
+}
+.sub-heading {
+    margin-bottom: 40px;
 }
 .cat1, .cat2, .cat3 {
     padding: 10px 30px;
@@ -54,4 +57,8 @@
     -ms-border-radius: 10px;
     -o-border-radius: 10px;
     box-shadow: 5px 5px 10px lightgray;
+}
+.card-footer {
+    background-color: white;
+    border-top: none;
 }
