@@ -62,3 +62,25 @@
     background-color: white;
     border-top: none;
 }
+#subscribe {
+    text-align: center;
+    height: 300px;
+}
+input {
+    border-radius: 20px;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    -ms-border-radius: 20px;
+    -o-border-radius: 20px;
+}
+#subscribe h6 {
+    color: gray;
+}
+::placeholder {
+    color: lightgray;
+    text-align: center;
+}
+footer p {
+    text-align: center;
+    font-size: 12px;
+}
