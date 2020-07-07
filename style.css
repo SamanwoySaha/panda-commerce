@@ -46,3 +46,12 @@
 .catagories img {
     width: 100px;
 }
+.card {
+    border: none;
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+    box-shadow: 5px 5px 10px lightgray;
+}
